@@ -40,9 +40,5 @@ I am currently looking for opportunities to apply my skills in **Big Data**, **P
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=FernanESP0&theme=shadow_blue&hide_border=false" alt="streak" />
-
 ### 🏆 Top Contribution
 ![](https://github-contributor-stats.vercel.app/api?username=FernanESP0&limit=5&theme=dark&combine_all_yearly_contributions=true)
