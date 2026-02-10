@@ -44,12 +44,13 @@ I am currently looking for opportunities to apply my skills in **Big Data**, **P
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FernanESP0&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernanESP0&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=FernanESP0&theme=shadow_blue&show_icons=true&hide_border=false" height="180" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernanESP0&theme=shadow_blue&hide_border=false&layout=compact" height="180" alt="langs" />
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=FernanESP0&theme=shadow_blue&hide_border=false" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=FernanESP0&theme=shadow_blue&hide_border=false&show_icons=true" alt="streak" />
 
 </div>
 
