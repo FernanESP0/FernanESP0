@@ -1,6 +1,6 @@
 # Hi there! I'm a Data Science Student at FIB - UPC 👋
 
-I am a third-year **Data Science and Engineering** student at the **Barcelona School of Informatics (FIB - UPC)**. My goal is simple: **transforming raw data into actionable business strategies.**
+I am a fourth-year **Data Science and Engineering** student at the **Barcelona School of Informatics (FIB - UPC)**. My goal is simple: **transforming raw data into actionable business strategies.**
 
 While my foundation is built on rigorous training in Machine Learning and Algorithmics, my true passion lies in the "business insights" behind the code. I strive to bridge the gap between complex analytical problems and enterprise growth.
 
